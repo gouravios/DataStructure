@@ -7,6 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9B40B16420A7D16F00F2E241 /* BinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B40B16320A7D16F00F2E241 /* BinaryTree.swift */; };
+		9B40B16620AC9DC300F2E241 /* SingleLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B40B16520AC9DC300F2E241 /* SingleLinkedList.swift */; };
+		9B4EE60E20BD2E5E00C667A6 /* TreeQuestions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B4EE60D20BD2E5E00C667A6 /* TreeQuestions.swift */; };
+		9B4EE61020BD2F1500C667A6 /* GraphQuestion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B4EE60F20BD2F1500C667A6 /* GraphQuestion.swift */; };
+		9B60963220AE1B0900E5A2BB /* Vertex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B60963120AE1B0900E5A2BB /* Vertex.swift */; };
+		9B60963420AE1B1600E5A2BB /* Edge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B60963320AE1B1600E5A2BB /* Edge.swift */; };
+		9B60963620AE1B3700E5A2BB /* GraphAdjacencyList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B60963520AE1B3700E5A2BB /* GraphAdjacencyList.swift */; };
+		9B60963820AE1B4800E5A2BB /* GraphAdjacencyMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B60963720AE1B4800E5A2BB /* GraphAdjacencyMatrix.swift */; };
+		9B60963A20AF573300E5A2BB /* SimpleProgram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B60963920AF573300E5A2BB /* SimpleProgram.swift */; };
+		9B60963C20AFB03D00E5A2BB /* stackImplementation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B60963B20AFB03D00E5A2BB /* stackImplementation.swift */; };
+		9B60963E20B3348F00E5A2BB /* QueueImplementation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B60963D20B3348F00E5A2BB /* QueueImplementation.swift */; };
+		9B60964020B36C8C00E5A2BB /* BTreeTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B60963F20B36C8C00E5A2BB /* BTreeTest.swift */; };
+		9B60964520B5F7F100E5A2BB /* SingularLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B60964220B5F7F100E5A2BB /* SingularLinkedList.swift */; };
+		9B60964620B5F7F100E5A2BB /* CirculatLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B60964320B5F7F100E5A2BB /* CirculatLinkedList.swift */; };
+		9B60964720B5F7F100E5A2BB /* DoubleLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B60964420B5F7F100E5A2BB /* DoubleLinkedList.swift */; };
+		9B8A7493206C133A00458D84 /* BinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8A7492206C133900458D84 /* BinarySearchTree.swift */; };
+		9B8A7495206C52C100458D84 /* SearchAlgorithm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8A7494206C52C100458D84 /* SearchAlgorithm.swift */; };
+		9B8A7497206CB37700458D84 /* SortingAlgorithm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8A7496206CB37700458D84 /* SortingAlgorithm.swift */; };
+		9B8D75B3206991CD002A40BD /* TreeDataStructure.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B8D75B2206991CD002A40BD /* TreeDataStructure.swift */; };
 		9BD883882020F125002CF07E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD883872020F125002CF07E /* AppDelegate.swift */; };
 		9BD8838A2020F125002CF07E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD883892020F125002CF07E /* ViewController.swift */; };
 		9BD8838D2020F125002CF07E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BD8838B2020F125002CF07E /* Main.storyboard */; };
@@ -35,6 +54,25 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9B40B16320A7D16F00F2E241 /* BinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTree.swift; sourceTree = "<group>"; };
+		9B40B16520AC9DC300F2E241 /* SingleLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleLinkedList.swift; sourceTree = "<group>"; };
+		9B4EE60D20BD2E5E00C667A6 /* TreeQuestions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeQuestions.swift; sourceTree = "<group>"; };
+		9B4EE60F20BD2F1500C667A6 /* GraphQuestion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GraphQuestion.swift; sourceTree = "<group>"; };
+		9B60963120AE1B0900E5A2BB /* Vertex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vertex.swift; sourceTree = "<group>"; };
+		9B60963320AE1B1600E5A2BB /* Edge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Edge.swift; sourceTree = "<group>"; };
+		9B60963520AE1B3700E5A2BB /* GraphAdjacencyList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GraphAdjacencyList.swift; sourceTree = "<group>"; };
+		9B60963720AE1B4800E5A2BB /* GraphAdjacencyMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GraphAdjacencyMatrix.swift; sourceTree = "<group>"; };
+		9B60963920AF573300E5A2BB /* SimpleProgram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleProgram.swift; sourceTree = "<group>"; };
+		9B60963B20AFB03D00E5A2BB /* stackImplementation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stackImplementation.swift; sourceTree = "<group>"; };
+		9B60963D20B3348F00E5A2BB /* QueueImplementation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QueueImplementation.swift; sourceTree = "<group>"; };
+		9B60963F20B36C8C00E5A2BB /* BTreeTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BTreeTest.swift; sourceTree = "<group>"; };
+		9B60964220B5F7F100E5A2BB /* SingularLinkedList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SingularLinkedList.swift; sourceTree = "<group>"; };
+		9B60964320B5F7F100E5A2BB /* CirculatLinkedList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CirculatLinkedList.swift; sourceTree = "<group>"; };
+		9B60964420B5F7F100E5A2BB /* DoubleLinkedList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DoubleLinkedList.swift; sourceTree = "<group>"; };
+		9B8A7492206C133900458D84 /* BinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySearchTree.swift; sourceTree = "<group>"; };
+		9B8A7494206C52C100458D84 /* SearchAlgorithm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchAlgorithm.swift; sourceTree = "<group>"; };
+		9B8A7496206CB37700458D84 /* SortingAlgorithm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortingAlgorithm.swift; sourceTree = "<group>"; };
+		9B8D75B2206991CD002A40BD /* TreeDataStructure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeDataStructure.swift; sourceTree = "<group>"; };
 		9BD883842020F125002CF07E /* TestDrivenDevelopment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestDrivenDevelopment.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BD883872020F125002CF07E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9BD883892020F125002CF07E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -76,6 +114,36 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9B4EE60C20BD2E4B00C667A6 /* Questions */ = {
+			isa = PBXGroup;
+			children = (
+				9B4EE60D20BD2E5E00C667A6 /* TreeQuestions.swift */,
+				9B4EE60F20BD2F1500C667A6 /* GraphQuestion.swift */,
+			);
+			path = Questions;
+			sourceTree = "<group>";
+		};
+		9B60963020AE1AD600E5A2BB /* Graph */ = {
+			isa = PBXGroup;
+			children = (
+				9B60963120AE1B0900E5A2BB /* Vertex.swift */,
+				9B60963320AE1B1600E5A2BB /* Edge.swift */,
+				9B60963520AE1B3700E5A2BB /* GraphAdjacencyList.swift */,
+				9B60963720AE1B4800E5A2BB /* GraphAdjacencyMatrix.swift */,
+			);
+			path = Graph;
+			sourceTree = "<group>";
+		};
+		9B60964120B5F7CF00E5A2BB /* Linked List */ = {
+			isa = PBXGroup;
+			children = (
+				9B60964220B5F7F100E5A2BB /* SingularLinkedList.swift */,
+				9B60964420B5F7F100E5A2BB /* DoubleLinkedList.swift */,
+				9B60964320B5F7F100E5A2BB /* CirculatLinkedList.swift */,
+			);
+			path = "Linked List";
+			sourceTree = "<group>";
+		};
 		9BD8837B2020F125002CF07E = {
 			isa = PBXGroup;
 			children = (
@@ -99,13 +167,26 @@
 		9BD883862020F125002CF07E /* TestDrivenDevelopment */ = {
 			isa = PBXGroup;
 			children = (
+				9B4EE60C20BD2E4B00C667A6 /* Questions */,
+				9B60964120B5F7CF00E5A2BB /* Linked List */,
+				9B60963020AE1AD600E5A2BB /* Graph */,
 				9BD883872020F125002CF07E /* AppDelegate.swift */,
+				9B8A7492206C133900458D84 /* BinarySearchTree.swift */,
+				9B8A7494206C52C100458D84 /* SearchAlgorithm.swift */,
+				9B8D75B2206991CD002A40BD /* TreeDataStructure.swift */,
+				9B8A7496206CB37700458D84 /* SortingAlgorithm.swift */,
 				9BD883892020F125002CF07E /* ViewController.swift */,
 				9BD8838B2020F125002CF07E /* Main.storyboard */,
 				9BD883912020F125002CF07E /* Assets.xcassets */,
 				9BD883932020F125002CF07E /* LaunchScreen.storyboard */,
 				9BD883962020F125002CF07E /* Info.plist */,
 				9BD8838E2020F125002CF07E /* TestDrivenDevelopment.xcdatamodeld */,
+				9B40B16320A7D16F00F2E241 /* BinaryTree.swift */,
+				9B40B16520AC9DC300F2E241 /* SingleLinkedList.swift */,
+				9B60963920AF573300E5A2BB /* SimpleProgram.swift */,
+				9B60963B20AFB03D00E5A2BB /* stackImplementation.swift */,
+				9B60963D20B3348F00E5A2BB /* QueueImplementation.swift */,
+				9B60963F20B36C8C00E5A2BB /* BTreeTest.swift */,
 			);
 			path = TestDrivenDevelopment;
 			sourceTree = "<group>";
@@ -262,9 +343,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B60964620B5F7F100E5A2BB /* CirculatLinkedList.swift in Sources */,
+				9B60963420AE1B1600E5A2BB /* Edge.swift in Sources */,
+				9B40B16420A7D16F00F2E241 /* BinaryTree.swift in Sources */,
+				9B60963C20AFB03D00E5A2BB /* stackImplementation.swift in Sources */,
+				9B60964020B36C8C00E5A2BB /* BTreeTest.swift in Sources */,
+				9B40B16620AC9DC300F2E241 /* SingleLinkedList.swift in Sources */,
+				9B60963220AE1B0900E5A2BB /* Vertex.swift in Sources */,
 				9BD8838A2020F125002CF07E /* ViewController.swift in Sources */,
+				9B4EE60E20BD2E5E00C667A6 /* TreeQuestions.swift in Sources */,
+				9B8A7495206C52C100458D84 /* SearchAlgorithm.swift in Sources */,
+				9B8D75B3206991CD002A40BD /* TreeDataStructure.swift in Sources */,
+				9B60963620AE1B3700E5A2BB /* GraphAdjacencyList.swift in Sources */,
+				9B60963820AE1B4800E5A2BB /* GraphAdjacencyMatrix.swift in Sources */,
 				9BD883902020F125002CF07E /* TestDrivenDevelopment.xcdatamodeld in Sources */,
 				9BD883882020F125002CF07E /* AppDelegate.swift in Sources */,
+				9B8A7493206C133A00458D84 /* BinarySearchTree.swift in Sources */,
+				9B60964720B5F7F100E5A2BB /* DoubleLinkedList.swift in Sources */,
+				9B60963A20AF573300E5A2BB /* SimpleProgram.swift in Sources */,
+				9B60964520B5F7F100E5A2BB /* SingularLinkedList.swift in Sources */,
+				9B8A7497206CB37700458D84 /* SortingAlgorithm.swift in Sources */,
+				9B4EE61020BD2F1500C667A6 /* GraphQuestion.swift in Sources */,
+				9B60963E20B3348F00E5A2BB /* QueueImplementation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
